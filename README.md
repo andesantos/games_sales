@@ -17,7 +17,7 @@ Matplotlib, Seaborn — for data visualization
 
 ## 🗂️ Project Structure 
   
-game-sales-strategy/ <br>
+game-sales/ <br>
 ├── data/ <br>
 │   └── vgsales.csv <br>
 ├── notebooks/ <br>
