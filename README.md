@@ -19,13 +19,19 @@ Matplotlib, Seaborn — for data visualization
   
 game-sales-strategy/ <br>
 ├── data/ <br>
-│   └── raw_data.csv <br>
+│   └── vgsales.csv <br>
 ├── notebooks/ <br>
 │   └── EDA_game_sales.ipynb <br>
 ├── visuals/ <br>
-│   └── sales_trends.png <br>
+│   └── corr_eu_na.png <br>
+│   └── distribution.png <br>
+│   └── missing_values.png <br>
+│   └── summary.png <br>
+│   └── top_3_developers.png <br>
+│   └── top_4_platforms.png <br>
+│   └── top_5_publishers.png <br>
 ├── README.md <br>
-└── requirements.txt <br>
+└── LICENSE
 
 <br>
 
